@@ -23,13 +23,4 @@ git clone https://github.com/shristi102005-spec/Synckro-Translator.git
 cd Synckro-Translator
 
 
-Synckro-Translator/
-│
-├── dashboard.py              # Main Flask app with UI
-├── synckro.py                # Core translation logic
-├── test_model.py              # Model testing script
-├── install_argos_models.bat.py # Helper for Argos models
-├── requirements.txt           # Dependencies
-└── README.md                  # Project documentation
-
 
