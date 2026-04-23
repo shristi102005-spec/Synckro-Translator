@@ -1,0 +1,6 @@
+flask
+vosk
+pyttsx3
+deep-translator
+numpy
+sounddevice
